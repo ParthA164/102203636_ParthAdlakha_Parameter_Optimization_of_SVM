@@ -1,0 +1,11 @@
+Sample #,Best Accuracy,Best SVM Parameters
+S1,0.9683,"Kernel: rbf, C: 10, gamma: scale"
+S2,0.9693,"Kernel: rbf, C: 10, gamma: auto"
+S3,0.9680,"Kernel: rbf, C: 10, gamma: scale"
+S4,0.9675,"Kernel: rbf, C: 10, gamma: auto"
+S5,0.9675,"Kernel: rbf, C: 10, gamma: auto"
+S6,0.9662,"Kernel: rbf, C: 10, gamma: auto"
+S7,0.9707,"Kernel: rbf, C: 10, gamma: auto"
+S8,0.9688,"Kernel: rbf, C: 10, gamma: scale"
+S9,0.9683,"Kernel: rbf, C: 10, gamma: auto"
+S10,0.9680,"Kernel: rbf, C: 10, gamma: auto"
